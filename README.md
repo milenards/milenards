@@ -8,6 +8,6 @@ Atualmente trabalho como suporte de sistemas e estudo desenvolvimento no curso d
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
 <hr>
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutoffline&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoffline&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milenards&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenards&show_icons=true&layout=compact" />
 </p>
